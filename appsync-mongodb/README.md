@@ -2,7 +2,7 @@
 
 This project demonstrates how to connect directly to a MongoDB Atlas cluster using AWS Appsync. Connecting directly to MongoDB requires the use of their Data API and AppSync's HTTP resolver. In doing so, there is no need for a proxying Lambda function.
 
-Learn more about this pattern at Serverless Land Patterns: https://github.com/aws-samples/serverless-patterns/appsync-mongodb
+Learn more about this pattern at Serverless Land Patterns: https://serverlessland.com/patterns/appsync-mongodb
 
 Important: this application uses various AWS services and there are costs associated with these services after the Free Tier usage - please see the [AWS Pricing page](https://aws.amazon.com/pricing/) for details. You are responsible for any AWS costs incurred. No warranty is implied in this example.
 
